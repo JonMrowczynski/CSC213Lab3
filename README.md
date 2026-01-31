@@ -1,4 +1,4 @@
-# Lab 3 - Java Fundamentals
+# Lab 3 - Java FUNdamentals
 
 **Author**: Jon Mrowczynski
 
