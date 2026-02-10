@@ -30,7 +30,7 @@ public class JavaFUNdamentals { // TODO: (1pt) Looking at this class, what was n
     }
 
     private static int[] part2() {
-        System.out.println("\nPart 2 (12pts):\n");
+        System.out.println("\nPart 2 (13pts):\n");
 
         // TODO: (1pt) Create a new Random object and store a reference to it.
 
@@ -48,7 +48,7 @@ public class JavaFUNdamentals { // TODO: (1pt) Looking at this class, what was n
         // TODO: (3pts) Using an indexed-for loop, print the index of the first number in your array greater than the random int.
         //  Can you do so without iterating over the entire array?
 
-        return new int[0]; // TODO: This will need to be changed.
+        return new int[0]; // TODO: (1pt) This will need to be changed.
     }
 
     private static void part3(int[] ints) {
