@@ -3,7 +3,7 @@ import java.util.stream.IntStream;
 /**
  * @author Jon Mrowczynski
  */
-public class JavaFUNdamentals { // TODO: Looking at this class, what was not followed? Can you fix it?
+public class JavaFUNdamentals { // TODO: (1pt) Looking at this class, what was not followed? Can you fix it?
 
     public static void main(String[] args) {
         part1();
