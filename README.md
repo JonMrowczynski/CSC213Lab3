@@ -18,7 +18,8 @@ Clone this repo using HTTPS or SSH. Either one will work since we won't be uploa
 You will find many TODO's inside the Java source file. These are relatively common when working on code.
 
 Write code to satisfy all the TODOs and answer any corresponding questions that are contained in this README.
-After you have completed each TODO (written code that you tested to ensure proper functionality), it is safe to delete the TODO comment.
+After you have completed each TODO (written code that you tested to ensure proper functionality), it is safe to (and you
+should) delete the TODO comment.
 
 You'll find these classes to be helpful:
 
