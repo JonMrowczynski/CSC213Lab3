@@ -1,4 +1,5 @@
 import java.util.stream.IntStream;
+import java.util.Scanner;
 
 /**
  * @author Jon Mrowczynski
